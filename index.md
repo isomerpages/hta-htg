@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/landing_better2.jpg
-      button: Contact Us
       url: /contact-us/
   - infobar:
       title: Foreword Message
