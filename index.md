@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: New Announcement available!!!
+notification: ""
 sections:
   - hero:
       background: /images/landing_better2.jpg
