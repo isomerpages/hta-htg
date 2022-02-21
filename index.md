@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Landing test
+      title: HTG Virtual
       subtitle: Hero subtitle
       background: /images/landing.png
       button: Contact Us
