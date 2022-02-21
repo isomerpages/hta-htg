@@ -14,4 +14,10 @@ sections:
       description: Read what our Home Team Dy CE has to say about the new vritual gallery
       button: Read more
       url: /foreword/
+  - infobar:
+      title: New Announcements
+      subtitle: todays highlights
+      description: Tomorrows News
+      button: Take me there
+      url: /announcement/
 ---
