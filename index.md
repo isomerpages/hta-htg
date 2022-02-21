@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/landing_better.jpg
+      background: /images/landing_better2.jpg
       button: Contact Us
       url: /contact-us/
   - infobar:
