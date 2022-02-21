@@ -7,8 +7,6 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: HTG Virtual
-      subtitle: Hero subtitle
       background: /images/landing.jpg
       button: Contact Us
       url: /contact-us/
