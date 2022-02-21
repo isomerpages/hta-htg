@@ -9,7 +9,7 @@ sections:
   - hero:
       title: HTG Virtual
       subtitle: Hero subtitle
-      background: /images/landing.png
+      background: /images/landing.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
