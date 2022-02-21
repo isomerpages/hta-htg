@@ -11,13 +11,13 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Foreword Message
+      subtitle: "by: Dy CE"
+      description: Read what our Home Team Dy CE has to say about the new vritual gallery
+      button: Read more
       url: /faq/
   - resources:
-      title: Media
+      title: Home Team Virtual GAllery
       subtitle: Learn more
       button: View More
 ---
