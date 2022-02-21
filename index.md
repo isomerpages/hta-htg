@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/landing_better2.jpg
-      url: /contact-us/
   - infobar:
       title: Foreword Message
       subtitle: "by: Dy CE"
