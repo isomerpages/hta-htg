@@ -3,5 +3,4 @@ links:
   - title: Visit the Gallery
     resource_room: true
   - title: Contact Us
-    url: https://www.google.com
-    sublinks: []
+    url: /Contactus/
