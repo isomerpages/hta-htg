@@ -1,6 +1,6 @@
 logo: /images/logo1.jpg
 links:
-  - title: Visit the Gallery
-    resource_room: true
+  - title: Virtual Gallery
+    url: /virtual/
   - title: Contact Us
-    url: /Contactus/
+    url: https://www.google.com
