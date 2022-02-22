@@ -8,16 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/landing_better2.jpg
-  - infobar:
+  - infopic:
       title: Foreword Message
-      subtitle: "by: Dy CE"
-      description: Read what our Home Team Dy CE has to say about the new virtual gallery
+      subtitle: "By: DY CE"
+      description: "  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
+        quis ex vehicula, porta tortor vitae, posuere sem. Quisque tempor neque
+        eget pharetra finibus. "
       button: Read more
       url: /foreword/
-  - infobar:
-      title: New Announcements
-      subtitle: todays highlights
-      description: Tomorrows News
-      button: Take me there
-      url: /announcement/
+      image: /images/old_hta.jpg
+      alt: Image alt text
 ---
