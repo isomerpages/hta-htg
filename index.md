@@ -11,7 +11,7 @@ sections:
   - infobar:
       title: Foreword Message
       subtitle: "by: Dy CE"
-      description: Read what our Home Team Dy CE has to say about the new vritual gallery
+      description: Read what our Home Team Dy CE has to say about the new virtual gallery
       button: Read more
       url: /foreword/
   - infobar:
