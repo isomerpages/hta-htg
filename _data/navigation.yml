@@ -1,2 +1,4 @@
 logo: /images/logo1.jpg
-links: []
+links:
+  - title: Visit the Gallery
+    resource_room: true
