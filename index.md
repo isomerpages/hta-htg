@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/landing_better2.jpg
+      background: /images/land2.jpg
   - infopic:
       title: Foreword Message
       subtitle: "By: DY CE"
@@ -19,4 +19,3 @@ sections:
       image: /images/old_hta.jpg
       alt: Image alt text
 ---
-
