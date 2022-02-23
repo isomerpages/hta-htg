@@ -18,4 +18,9 @@ sections:
       url: /foreword/
       image: /images/old_hta.jpg
       alt: Image alt text
+  - infobar:
+      title: Announcement
+      subtitle: Events &
+      button: read more
+      url: /events/
 ---
