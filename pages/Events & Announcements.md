@@ -29,4 +29,4 @@ Aliquam faucibus suscipit massa eu sodales. Nam tincidunt fermentum quam eu rhon
 | Column 1 | Column 2 | Column 3 
 | -------- | -------- | -------- 
 | John     | Doe      | Male     
-| Mary     | Smith    | Female   
+| Mary     | Smith    | Female
