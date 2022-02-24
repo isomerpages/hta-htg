@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/land3.jpg
+      background: /images/land3b.jpg
   - infopic:
       title: Foreword Message
       subtitle: "By: DY CE"
