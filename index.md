@@ -20,7 +20,4 @@ sections:
       alt: Image alt text
   - infobar:
       title: Announcement
-      subtitle: Events &
-      button: read more
-      url: /events/
 ---
