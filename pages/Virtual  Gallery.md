@@ -11,6 +11,7 @@ The Gallery has 2 levels, separated by a Mezzanine floor. As you navigate the Ga
 
 •	Summary of Zones in the Home Team Gallery  - (pls refer to the PPT for copy. This section ports out to Cloudexpo)
 
-![](/images/chart.jpg)
-
 [Visit Virtual Gallery](https://www.facebook.com)
+
+
+
