@@ -19,7 +19,7 @@ sections:
       image: /images/old_hta.jpg
       alt: Image alt text
   - infobar:
-      title: Announcements
+      title: ANNOUNCEMENTS
   - infopic:
       title: Event 1
       description: Aenean est tellus, feugiat ut pulvinar in,quis ipsum. Ut ornare
