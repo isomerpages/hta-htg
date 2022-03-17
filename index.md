@@ -9,11 +9,11 @@ sections:
   - hero:
       background: /images/land3d.jpg
   - infopic:
-      title: Foreword Message
+      title: Chief Executive Foreword
       subtitle: "By: DY CE"
-      description: "  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
-        quis ex vehicula, porta tortor vitae, posuere sem. Quisque tempor neque
-        eget pharetra finibus. "
+      description: '"The Home Team Academy (HTA) plays a pivotal role in developing
+        and nurturing the Home Team (HT) ethos, values and principles in
+        every..."'
       button: Read more
       url: /foreword/
       image: /images/old_hta.jpg
