@@ -16,7 +16,7 @@ sections:
         every..."'
       button: Read more
       url: /foreword/
-      image: /images/photopic_sm.jpg
+      image: /images/photopic_sm2.jpg
       alt: Image alt text
   - infobar:
       title: ANNOUNCEMENTS
