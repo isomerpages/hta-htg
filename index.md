@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/bg.jpg
+      background: /images/newbg1.jpg
   - infopic:
       title: Chief Executive Foreword
       subtitle: "By: DY CE"
