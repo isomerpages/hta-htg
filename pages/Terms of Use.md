@@ -21,7 +21,7 @@ Proprietary Rights
 
 Privacy Statement
 
-5.	Click here to review this Site’s [Privacy Statement](https://wps.hta.gov.sg/privacy).
+5.	Click here to review this Site’s [Privacy Statement](/privacy/).
 
 Restrictions on Use of Contents
 
