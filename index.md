@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/land3d.jpg
+      background: /images/FB Banner 2021 - opt 3 copy (1) (1).jpg
   - infopic:
       title: Chief Executive Foreword
       subtitle: "By: DY CE"
