@@ -16,7 +16,7 @@ sections:
         every..."'
       button: Read more
       url: /foreword/
-      image: /images/old_hta.jpg
+      image: /images/photopic_sm.jpg
       alt: Image alt text
   - infobar:
       title: ANNOUNCEMENTS
