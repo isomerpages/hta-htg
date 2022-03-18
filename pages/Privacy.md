@@ -3,7 +3,7 @@ title: Privacy
 permalink: /privacy
 description: ""
 ---
-**This is a Government of Singapore website.**
+# This is a Government of Singapore website.
 
 If you are only browsing this website, we do not capture data that allows us to identify you individually.
 
