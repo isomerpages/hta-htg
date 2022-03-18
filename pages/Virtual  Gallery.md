@@ -3,12 +3,16 @@ title: Virtual  Gallery
 permalink: /virtual/
 description: ""
 ---
-•	Welcome to the Home Team Virtual Gallery.
+**Home Team Gallery: Stories of Singapore’s Guardians**
 
-The Gallery has 2 levels, separated by a Mezzanine floor. As you navigate the Gallery, you will see lighted floor arrows and wall markers that reflect various Gallery Zones. Click on these arrows to access the various Zones. 
+The Home Team Gallery (HTG) serves as an integral part of Home Team Academy’s training facility that showcases the Home Team’s contributions to Singapore’s homefront safety and security. Highlighting the rich history of the Home Team departments and the evolution of the Home Team concept, visitors will learn about the synergy of these various departments working with its counterparts and the community to keep Singapore safe and secure.  
 
-•	To start your experience, make sure that you have a strong wifi connection. (this statement at the bottom in small print)
+![](/images/Asset%201@2x.png)
 
-•	Summary of Zones in the Home Team Gallery  - (pls refer to the PPT for copy. This section ports out to Cloudexpo)
+Our virtual gallery provides viewers with a remote user experience of the physical gallery. For a smooth virtual experience, do ensure that you have a strong WI-FI connection. 
 
-[Visit Virtual Gallery](https://www.facebook.com)
+To enjoy a complete visitor experience of the gallery, do book a visit to our physical gallery!
+
+[Proceed to Virtual Gallery](https://www.facebook.com)
+
+[Book a Visit to HTG](https://form.gov.sg/623080bdf8325c0012825d07)
