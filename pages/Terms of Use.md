@@ -3,8 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-### **Government Agency Privacy Statement**
-
 Terms of Use
 
 Thank you for visiting the Home Team Gallery virtual website, hometeamgallery.gov.sg (henceforth known as “Site”). By accessing and using any part of this Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
