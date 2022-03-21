@@ -10,7 +10,6 @@ sections:
       background: /images/newbg1.jpg
   - infopic:
       title: Chief Executive Foreword
-      subtitle: "By: DY CE"
       description: '"The Home Team Academy (HTA) plays a pivotal role in developing
         and nurturing the Home Team (HT) ethos, values and principles in
         every..."'
