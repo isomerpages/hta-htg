@@ -26,5 +26,6 @@ sections:
       url: /event1/
       image: /images/Coming-Soon.jpg
       alt: Image alt text
+  - infopic:
+      image: /images/test long.png
 ---
-
