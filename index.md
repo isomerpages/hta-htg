@@ -24,7 +24,4 @@ sections:
         hard towards our re-opening in May 2022.
       image: /images/Coming-Soon.jpg
       alt: Image alt text
-  - infopic:
-      image: /images/test long.png
-      alt: chief executive foreword
 ---
