@@ -13,6 +13,6 @@ Our virtual gallery provides viewers with a remote user experience of the physic
 
 To enjoy a complete visitor experience of the gallery, do book a visit to our physical gallery!
 
-[Proceed to Virtual Gallery](https://www.facebook.com)
+[Proceed to Virtual Gallery](https://cloudexpo.hiverlab.com/?HTG)
 
 [Book a Visit to HTG](https://form.gov.sg/623080bdf8325c0012825d07)
