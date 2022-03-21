@@ -29,4 +29,5 @@ sections:
   - infopic:
       image: /images/test long.png
       url: /2022/
+      alt: foreword
 ---
