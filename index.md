@@ -22,8 +22,6 @@ sections:
   - infopic:
       description: Welcome to our Home Team Gallery website! We are currently working
         hard towards our re-opening in May 2022.
-      button: read more
-      url: /event1/
       image: /images/Coming-Soon.jpg
       alt: Image alt text
   - infopic:
