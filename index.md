@@ -28,6 +28,5 @@ sections:
       alt: Image alt text
   - infopic:
       image: /images/test long.png
-      url: /2022/
-      alt: foreword
+      alt: chief executive foreword
 ---
