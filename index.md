@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Home Team Academy Gallery
+title: Home Team Gallery by Home Team Academy
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -27,3 +27,4 @@ sections:
       image: /images/Coming-Soon.jpg
       alt: Image alt text
 ---
+
